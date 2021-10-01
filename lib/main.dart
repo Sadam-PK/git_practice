@@ -9,11 +9,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-<<<<<<< HEAD
-      title: 'Git Test',
-=======
-      title: 'Flutter Demo',
->>>>>>> b11e2f6ba5e6d07ce27bdbdca7f347109bf62d67
+// <<<<<<< HEAD
+      title: 'FYP GIT TEST',
+// =======
+//       title: 'Flutter Demo',
+// >>>>>>> b11e2f6ba5e6d07ce27bdbdca7f347109bf62d67
       theme: ThemeData(
         // This is the theme of your application.
         //
