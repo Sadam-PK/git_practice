@@ -9,11 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-// <<<<<<< HEAD
-      title: 'FYP GIT TEST',
-// =======
-//       title: 'Flutter Demo',
-// >>>>>>> b11e2f6ba5e6d07ce27bdbdca7f347109bf62d67
+      title: 'Git Test',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -98,11 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-<<<<<<< HEAD
-              'You have pushed the button this many times:',
-=======
-              'You have pushed the button this many times.',
->>>>>>> b11e2f6ba5e6d07ce27bdbdca7f347109bf62d67
+              'Hammad',
             ),
             Text(
               '$_counter',
